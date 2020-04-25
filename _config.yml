@@ -1,11 +1,11 @@
-title: Your awesome title
+title: Vinh Ngo self study blog
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Vinh Ngo
+  email: vinh.ngo@eyeq.tech
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Đây là blog ôn tập của mình về AI và đôi khi là chuyện về cư xử :D. 
+  Đây là một tập hợp tạp nham từ những thứ đơn giản nhất tới những thứ mà phức tạp nhất
+  mà mình cho rằng nó phức tạp :v
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -16,8 +16,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    # twitter: jekyllrb
+    github:  www.github.com/manaclan
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
